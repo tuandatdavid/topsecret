@@ -27,12 +27,12 @@ Ale ještě k nim přidám něco z pracovního listu, který děláme ve škole 
 	- vodnaté - opál, hnědel (limonit), bauxit
 	- bezvodé - krevel, křemen, korund, magnetit, cínovec (kasiterit), uraninit
 - Napiš 4 druhy křemene a jejich barvu.
-• Křišťál – čirý, bezbarvý, průhledný
-• Citrín – žlutý,  propustný pro světlo
-• Záhněda - hnědý, propustný pro světlo
-• Růženín – růžový
-• Ametyst – fialový ( často vrstvy bílého a fialového křemene)
-• Chalcedon – modrošedý (mikroskopická zrníčka křemene a opálu)
+  	- Křišťál – čirý, bezbarvý, průhledný
+	-  Citrín – žlutý,  propustný pro světlo
+	-  Záhněda - hnědý, propustný pro světlo
+	-  Růženín – růžový
+  	- Ametyst – fialový ( často vrstvy bílého a fialového křemene)
+	- Chalcedon – modrošedý (mikroskopická zrníčka křemene a opálu)
 
 - Která železná ruda obsahuje nejvíce železa. Magnetit
 #### Halogenidy
